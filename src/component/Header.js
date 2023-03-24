@@ -6,9 +6,9 @@ const Header = () => (
         <nav>
             <ul>
                 <li><NavLink to = '/'>home</NavLink></li>
-                <li><NavLink to = '/Player'> test1 </NavLink></li>
-                <li><NavLink to = '/AllPlayer'> test2 </NavLink></li>
-                <li><NavLink to = '/test3'> test3 </NavLink></li>
+                <li><NavLink to = '/my_cart'> my_cart </NavLink></li>
+                <li><NavLink to = '/book_profile'> book_profile </NavLink></li>
+                <li><NavLink to='/my_profile'> my_profile </NavLink></li>
             </ul>
         </nav>
     </header>

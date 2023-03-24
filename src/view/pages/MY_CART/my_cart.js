@@ -1,7 +1,7 @@
 import React from "react";
-const Player = () => (
+const MyCart = () => (
     <div>
-        <h1>Hello, Player.</h1>
+        <h1>Hello, here is my cart.</h1>
     </div>
 )
-export default Player;
+export default MyCart;
